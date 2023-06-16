@@ -3,10 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luuu-xu&label=Profile%20views&color=0e75b6&style=flat" alt="luuu-xu" /> </p>
 
-- 🔭 I’m currently working on [a risk data visualization website.](https://risk-viz-inky.vercel.app)
+- 🔭 I’m currently working on **contributing to open source projects** like [The Odin Project](https://github.com/luuu-xu/theodinproject) and [Electricity Maps](https://github.com/electricitymaps/electricitymaps-contrib).
 
-- 🌱 I’m currently learning **Next.js 13 and Redux.**
+- 🌱 I’m learning towards **AWS Cloud Practioner Certificate.**
 
+- ✍️ I'm practicing data structure/algorithm problems on [LeetCode](https://leetcode.com/user3919kN/).
+  
 - 😎 My best project is [Odinbook, a full-stack MERN facebook social media website.](https://odinbook-client-production-9219.up.railway.app/)
 
 - 👨‍💻 All of my projects are available at my [portfolio website.](https://luuu-xu.vercel.app)
