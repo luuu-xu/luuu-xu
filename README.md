@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luuu-xu&label=Profile%20views&color=0e75b6&style=flat" alt="luuu-xu" /> </p>
 
-- 🔭 I’m currently working on **contributing to open source projects** like [The Odin Project](https://github.com/luuu-xu/theodinproject) and [Electricity Maps](https://github.com/electricitymaps/electricitymaps-contrib).
+- 🔭 I’m currently **contributing to open-source projects** like [The Odin Project](https://github.com/luuu-xu/theodinproject) and [Electricity Maps](https://github.com/electricitymaps/electricitymaps-contrib).
 
-- 🌱 I’m learning towards **AWS Cloud Practioner Certificate.**
+- 🌱 I’m **improving a11y** features of an open-source project called [activist](https://activist.org/).
 
 - ✍️ I'm practicing data structure/algorithm problems on [LeetCode](https://leetcode.com/user3919kN/).
   
