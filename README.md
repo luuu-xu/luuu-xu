@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently **contributing to open-source projects** like [The Odin Project](https://github.com/luuu-xu/theodinproject) and [Electricity Maps](https://github.com/electricitymaps/electricitymaps-contrib).
 
-- 🌱 I’m **improving a11y** features of an open-source project called [activist](https://activist.org/).
+- 🌱 I’m **improving a11y** features of an open-source project called [[activist](https://activist.org/)](https://github.com/activist-org/activist).
 
-- ✍️ I'm practicing data structure/algorithm problems on [LeetCode](https://leetcode.com/user3919kN/).
+- ✍️ I'm practicing data structure/algorithm problems on [LeetCode](https://leetcode.com/luuuxu/).
   
 - 😎 My best project is [Odinbook, a full-stack MERN facebook social media website.](https://odinbook-client-production-9219.up.railway.app/)
 
