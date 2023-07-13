@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **contributing to open-source projects** like [The Odin Project](https://github.com/luuu-xu/theodinproject) and [Electricity Maps](https://github.com/electricitymaps/electricitymaps-contrib).
 
-- 🌱 I’m **improving a11y** features of an open-source project called [[activist](https://activist.org/)](https://github.com/activist-org/activist).
+- 🌱 I’m **improving a11y** features of an open-source project called [activist](https://github.com/activist-org/activist).
 
 - ✍️ I'm practicing data structure/algorithm problems on [LeetCode](https://leetcode.com/luuuxu/).
   
